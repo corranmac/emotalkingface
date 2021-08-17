@@ -48,7 +48,7 @@ tqdm==4.42.0
 urllib3==1.25.8
 visdom==0.1.8.9
 websocket-client==0.57.0
-mkl-fft==1.0.15
+mkl-fft==1.0.2
 mkl-service==2.3.0
 opencv-python==4.1.1.26
 opencv-python-headless==4.1.2.30
